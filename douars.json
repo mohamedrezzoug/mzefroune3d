@@ -1,0 +1,81 @@
+{
+  "source": "Mzefroune 3D",
+  "exported": "2026-10-10T12:42:25.964Z",
+  "douars": {
+    "Kalaa": {
+      "pop": 437,
+      "hh": 85
+    },
+    "Bni Assem": {
+      "pop": 536,
+      "hh": 129
+    },
+    "Bouhssina": {
+      "pop": 171,
+      "hh": 37
+    },
+    "Chaouia": {
+      "pop": 266,
+      "hh": 51
+    },
+    "Dar Dbaa": {
+      "pop": 382,
+      "hh": 91
+    },
+    "Zrahna": {
+      "pop": 310,
+      "hh": 84
+    },
+    "El Hait": {
+      "pop": 332,
+      "hh": 74
+    },
+    "El Haret": {
+      "pop": 376,
+      "hh": 99
+    },
+    "El Haret-El Assida": {},
+    "Hammara": {
+      "pop": 1144,
+      "hh": 277,
+      "school": "كاين",
+      "mosque": "كاين",
+      "health": "ما كاينش",
+      "elec": "كاين",
+      "water": "سقاية عمومية",
+      "road": "مسلك",
+      "extras": [],
+      "updated": "10/10/2026"
+    },
+    "Kssiba": {
+      "pop": 240,
+      "hh": 64
+    },
+    "Dchar Alia": {
+      "pop": 585,
+      "hh": 138
+    },
+    "M'zefroune": {
+      "pop": 621,
+      "hh": 156
+    },
+    "Ouled Bouanane": {},
+    "Taourate": {
+      "pop": 462,
+      "hh": 102
+    },
+    "Touirta": {
+      "pop": 330,
+      "hh": 73
+    },
+    "Zaouia": {
+      "pop": 322,
+      "hh": 91
+    },
+    "Zrazer": {
+      "pop": 356,
+      "hh": 86
+    }
+  },
+  "roads": {}
+}
